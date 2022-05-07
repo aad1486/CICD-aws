@@ -5,7 +5,7 @@ env:
  EB_PACKAGE_S3_BUCKET_NAME : "github.aad1486"
  EB_APPLICATION_NAME       : "Githubtest"
  EB_ENVIRONMENT_NAME       : "Githubtest-env"
- DEPLOY_PACKAGE_NAME       : "flask_app_$ {{ github.sha }}.zip
+ DEPLOY_PACKAGE_NAME       : "Githubtest_app_$ {{ github.sha }}.zip
  
  
 
