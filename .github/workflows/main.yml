@@ -6,7 +6,7 @@ env:
  EB_APPLICATION_NAME       : "Githubtest"
  EB_ENVIRONMENT_NAME       : "Githubtest-env"
  DEPLOY_PACKAGE_NAME       : "flask_app_${{ github.sha }}.zip"
- AWS_REGION_NAME           : "eu-north-1" 
+ AWS_REGION_NAME           : "eu-central-1" 
  
  
 
