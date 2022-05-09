@@ -1,1 +1,1 @@
-# CICD-aws
+# CI-CD-to-AWS
